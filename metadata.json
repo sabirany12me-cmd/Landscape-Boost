@@ -1,0 +1,6 @@
+{
+  "name": "Landscape Boost",
+  "description": "Revenue Growth System for Landscaping Businesses - Premium landing page with interactive ROI calculator, live AI lead-response simulator, and booking calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
