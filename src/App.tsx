@@ -128,7 +128,7 @@ export default function App() {
               <p className="text-sm font-mono uppercase tracking-wider font-bold text-slate-200">Connect With Us</p>
               <div className="flex gap-5 pt-1">
                 <a 
-                  href="https://www.facebook.com/md.sabiruddin123/" 
+                  href="https://www.facebook.com/landscape.boost" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="p-4 bg-slate-900 hover:bg-pink-600 border-2 border-slate-700 hover:border-pink-400 rounded-full text-slate-100 hover:text-white transition-all hover:scale-110 flex items-center justify-center cursor-pointer shadow-lg hover:shadow-pink-500/20"
